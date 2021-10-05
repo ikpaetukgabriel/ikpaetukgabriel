@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikpaetukgabriel
 - 👀 I’m interested in develping web and mobile applications
 - 🌱 I’m currently learning React Js, AWS, React Native, several data structures and algorithm
-- 💞️ I’m looking to collaborate on building a mobile app
+- 💞️ I’m looking to collaborate on building a mobile app or web application
 - 📫 How to reach me ikpaetukgabriel@gmail.com or gabrielikpaetuk@byui.edu
 
 <!---
