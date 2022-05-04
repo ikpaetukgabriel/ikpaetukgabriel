@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on building a mobile or web application
 - 📫 How to reach me ikpaetukgabriel@gmail.com or gabrielikpaetuk@byui.edu
 
+##Tech Stack
+
 <!---
 ikpaetukgabriel/ikpaetukgabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
